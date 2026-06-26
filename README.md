@@ -227,7 +227,26 @@ The notebook automatically:
 - Compare with alternative post-quantum schemes: **Kyber (ML-KEM)**, **NTRU Prime**, **SABER**
 - Explore **differential privacy** integration alongside NTRU for stronger formal guarantees
 
+---
 
+## 📄 Reference
+
+This project reproduces the methodology and experimental setup from:
+
+> **Quantum-Resistant Secure Aggregation for Healthcare Federated Learning**  
+> *Computers, Materials & Continua (CMC)*
+
+<details>
+<summary>📋 BibTeX Citation</summary>
+
+```
+@article{ntru-fl-healthcare,
+  title   = {Quantum-Resistant Secure Aggregation for Healthcare Federated Learning},
+  journal = {Computers, Materials and Continua (CMC)},
+}
+```
+
+</details>
 
 ---
 
